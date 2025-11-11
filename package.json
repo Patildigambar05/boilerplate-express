@@ -10,7 +10,8 @@
   },
   "main": "server.js",
   "scripts": {
-    "start": "node --watch server.js",
-		"run" : "npm run"
+    "start": "node server.js",
+    "run" : "npm run"
+		
   }
 }
